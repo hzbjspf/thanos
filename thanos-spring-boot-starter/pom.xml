@@ -15,7 +15,7 @@
     <description>thaos project</description>
     <properties>
         <java.version>1.8</java.version>
-        <testng.version>6.14.3</testng.version>
+        <testng.version>7.5.1</testng.version>
         <httpclient.version>4.5.13</httpclient.version>
         <lombok.version>1.18.10</lombok.version>
     </properties>
